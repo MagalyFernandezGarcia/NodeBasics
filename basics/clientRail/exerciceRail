@@ -1,0 +1,46 @@
+const https = require("https");
+// pour lire et écrire des fichiers:
+const fileStream = require("fs");
+
+const request = {
+	host: "api.irail.be",
+	port: 443,
+	path: "/v1/liveboard/?id=BE.NMBS.008812005&lang=fr&format=json",
+};
+
+https.get(request, receiveResponseCallback);
+
+function receiveResponseCallback(response) {
+	let rawData = "";
+	console.log("got response " + response.statusCode);
+	response.on("data", (chunk) => {
+		rawData += chunk;
+	});
+	response.on("end", function (chunk) {
+		// console.log(rawData);
+		const infoTrain = JSON.parse(rawData);
+		// console.log(infoTrain);
+
+		// console.log(infoTrain.station);
+
+		for (let i = 0; i < infoTrain.departures.departure.length; i++) {
+			let firstDeparture = infoTrain.departures.departure[i];
+			let timeDeparture = new Date(parseInt(firstDeparture.time) * 1000);
+			timeDeparture = timeDeparture.toLocaleTimeString("Fr-fr");
+			console.log(
+				timeDeparture +
+					" A destination de : " +
+					firstDeparture.station +
+					" Quai: " +
+					firstDeparture.platform +
+					" Retard: " +
+					firstDeparture.delay / 60 +
+					"'"
+			);
+		}
+		fileStream.writeFile("./cache/liveboard.json", rawData, function (err) {
+			if (err) console.log(err);
+			else console.log("file saved");
+		});
+	});
+}
