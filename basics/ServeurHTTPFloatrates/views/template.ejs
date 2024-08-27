@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="/style/main.css" />
+	</head>
+	<body>
+		<ul>
+			<% currencies.forEach(function(currency) { %>
+			<li>
+				<strong> 1 <%= currency.name %></strong>
+				(<%= currency.code %>), vaut <%= Math.round(currency.value) %>€
+			</li>
+			<% }); %>
+		</ul>
+	</body>
+</html>

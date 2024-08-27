@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	width: 100vw;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+	gap: 15%;
+}
+
+.weather {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	gap: 5%;
+	height: 10%;
+	width: 10%;
+}
+
+.weatherImg {
+	height: 50%;
+
+	object-fit: contain;
+}
+
+.news {
+	height: 60%;
+	width: 80%;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.newsBlock {
+	height: 70%;
+	width: 100%;
+
+	display: flex;
+	justify-content: space-between;
+}
+
+.newsList {
+	height: 100%;
+	width: 30%;
+
+	display: flex;
+	flex-direction: column;
+
+	align-items: center;
+}
+
+.jvImg {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+.infoContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	height: 30%;
+}
+.cineNews {
+	height: 30%;
+	width: 100%;
+	display: flex;
+	gap: 10px;
+
+	background-color: brown;
+}
+
+.infoTrain {
+	display: flex;
+	justify-content: space-around;
+	gap: 15px;
+}
+
+.train {
+	gap: 10px;
+	background-color: rgb(217, 217, 217);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 25%;
+}
+.jvTitle {
+	background-color: red;
+	width: 100%;
+	text-align: center;
+}
+
+.trainTitle {
+	margin-top: 2%;
+	background-color: rgb(118, 132, 168);
+	width: 100%;
+	text-align: center;
+}

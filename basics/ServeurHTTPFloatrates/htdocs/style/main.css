@@ -1,0 +1,19 @@
+body {
+	background-color: rgb(248, 246, 246);
+	background-image: url(./pictures/piggy.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: top 130px right -150px;
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+}
+
+ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	gap: 10px;
+	height: 50%;
+	width: 100%;
+}

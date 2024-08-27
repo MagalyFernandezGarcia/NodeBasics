@@ -1,0 +1,309 @@
+{
+	"currenciesArray": [
+		{
+			"name": "Australian Dollar",
+			"value": 1.6532561577668,
+			"code": "AUD"
+		},
+		{
+			"name": "Canadian Dollar",
+			"value": 1.5137033934946,
+			"code": "CAD"
+		},
+		{
+			"name": "Chinese Yuan",
+			"value": 7.9484287279572,
+			"code": "CNY"
+		},
+		{
+			"name": "U.K. Pound Sterling",
+			"value": 0.85059854918322,
+			"code": "GBP"
+		},
+		{
+			"name": "Hong Kong Dollar",
+			"value": 8.68570715773,
+			"code": "HKD"
+		},
+		{
+			"name": "Indonesian Rupiah",
+			"value": 17385.874438079,
+			"code": "IDR"
+		},
+		{
+			"name": "Indian Rupee",
+			"value": 93.543884182687,
+			"code": "INR"
+		},
+		{
+			"name": "Japanese Yen",
+			"value": 162.09362237457,
+			"code": "JPY"
+		},
+		{
+			"name": "South Korean Won",
+			"value": 1488.7145558569,
+			"code": "KRW"
+		},
+		{
+			"name": "Malaysian Ringgit",
+			"value": 4.8802117401588,
+			"code": "MYR"
+		},
+		{
+			"name": "New Zealand Dollar",
+			"value": 1.8105888810111,
+			"code": "NZD"
+		},
+		{
+			"name": "Philippine Peso",
+			"value": 62.773885432548,
+			"code": "PHP"
+		},
+		{
+			"name": "Singapore Dollar",
+			"value": 1.4561028228558,
+			"code": "SGD"
+		},
+		{
+			"name": "Thai Baht",
+			"value": 38.274742391862,
+			"code": "THB"
+		},
+		{
+			"name": "New Taiwan Dollar ",
+			"value": 35.61192163996,
+			"code": "TWD"
+		},
+		{
+			"name": "U.S. Dollar",
+			"value": 1.1143191822346,
+			"code": "USD"
+		},
+		{
+			"name": "Vietnamese Dong",
+			"value": 27781.928098323,
+			"code": "VND"
+		},
+		{
+			"name": "Swiss Franc",
+			"value": 0.94842140602788,
+			"code": "CHF"
+		},
+		{
+			"name": "Bulgarian Lev",
+			"value": 1.9559203282675,
+			"code": "BGN"
+		},
+		{
+			"name": "Brazilian Real",
+			"value": 6.1104033184103,
+			"code": "BRL"
+		},
+		{
+			"name": "Chilean Peso",
+			"value": 1020.7779531209,
+			"code": "CLP"
+		},
+		{
+			"name": "Czech Koruna",
+			"value": 25.074463705098,
+			"code": "CZK"
+		},
+		{
+			"name": "Danish Krone",
+			"value": 7.4652563507484,
+			"code": "DKK"
+		},
+		{
+			"name": "Hungarian Forint",
+			"value": 393.89887372013,
+			"code": "HUF"
+		},
+		{
+			"name": "Israeli New Sheqel",
+			"value": 4.1470218179017,
+			"code": "ILS"
+		},
+		{
+			"name": "Icelandic Krona",
+			"value": 152.30943121384,
+			"code": "ISK"
+		},
+		{
+			"name": "Mexican Peso",
+			"value": 21.501384080287,
+			"code": "MXN"
+		},
+		{
+			"name": "Norwegian Krone",
+			"value": 11.744696873722,
+			"code": "NOK"
+		},
+		{
+			"name": "Polish Zloty",
+			"value": 4.2852258472013,
+			"code": "PLN"
+		},
+		{
+			"name": "Romanian New Leu",
+			"value": 4.9770335042987,
+			"code": "RON"
+		},
+		{
+			"name": "Swedish Krona",
+			"value": 11.38478513193,
+			"code": "SEK"
+		},
+		{
+			"name": "Turkish Lira",
+			"value": 37.821940398952,
+			"code": "TRY"
+		},
+		{
+			"name": "Ukrainian Hryvnia",
+			"value": 46.028204588626,
+			"code": "UAH"
+		},
+		{
+			"name": "South African Rand",
+			"value": 20.002685711481,
+			"code": "ZAR"
+		},
+		{
+			"name": "Egyptian Pound",
+			"value": 54.386954582459,
+			"code": "EGP"
+		},
+		{
+			"name": "Jordanian Dinar",
+			"value": 0.79013778530465,
+			"code": "JOD"
+		},
+		{
+			"name": "Lebanese Pound",
+			"value": 103743.11586604,
+			"code": "LBP"
+		},
+		{
+			"name": "Bangladeshi taka",
+			"value": 132.93536932127,
+			"code": "BDT"
+		},
+		{
+			"name": "Belarussian Ruble",
+			"value": 3.6467713022587,
+			"code": "BYN"
+		},
+		{
+			"name": "Pakistani Rupee",
+			"value": 310.40567286519,
+			"code": "PKR"
+		},
+		{
+			"name": "Central African CFA Franc",
+			"value": 657.57154653239,
+			"code": "XAF"
+		},
+		{
+			"name": "West African CFA Franc",
+			"value": 657.57154653239,
+			"code": "XOF"
+		},
+		{
+			"name": "Nigerian Naira",
+			"value": 1748.9607290502,
+			"code": "NGN"
+		},
+		{
+			"name": "Saudi Riyal",
+			"value": 4.1816160852472,
+			"code": "SAR"
+		},
+		{
+			"name": "Peruvian Nuevo Sol",
+			"value": 4.1735720409589,
+			"code": "PEN"
+		},
+		{
+			"name": "Russian Rouble",
+			"value": 101.92366206023,
+			"code": "RUB"
+		},
+		{
+			"name": "U.A.E Dirham",
+			"value": 4.0925505343761,
+			"code": "AED"
+		},
+		{
+			"name": "Argentine Peso",
+			"value": 1051.4758720948,
+			"code": "ARS"
+		},
+		{
+			"name": "Bolivian Boliviano",
+			"value": 7.6442295901291,
+			"code": "BOB"
+		},
+		{
+			"name": "Colombian Peso",
+			"value": 4496.6056412524,
+			"code": "COP"
+		},
+		{
+			"name": "Costa Rican Colón",
+			"value": 581.87686417651,
+			"code": "CRC"
+		},
+		{
+			"name": "Dominican Peso",
+			"value": 66.464450094535,
+			"code": "DOP"
+		},
+		{
+			"name": "Algerian Dinar",
+			"value": 149.24306111146,
+			"code": "DZD"
+		},
+		{
+			"name": "Haitian gourde",
+			"value": 146.49730912475,
+			"code": "HTG"
+		},
+		{
+			"name": "Panamanian Balboa",
+			"value": 1.1143191822346,
+			"code": "PAB"
+		},
+		{
+			"name": "Paraguayan Guaraní",
+			"value": 8493.5884334767,
+			"code": "PYG"
+		},
+		{
+			"name": "Tunisian Dinar",
+			"value": 3.3908796726902,
+			"code": "TND"
+		},
+		{
+			"name": "Uruguayan Peso",
+			"value": 44.902664415702,
+			"code": "UYU"
+		},
+		{
+			"name": "Venezuelan Bolivar",
+			"value": 40.834785633397,
+			"code": "VES"
+		},
+		{
+			"name": "Moldova Lei",
+			"value": 19.489779645833,
+			"code": "MDL"
+		},
+		{
+			"name": "Serbian Dinar",
+			"value": 118.22271041637,
+			"code": "RSD"
+		}
+	]
+}

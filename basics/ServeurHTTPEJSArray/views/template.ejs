@@ -1,0 +1,13 @@
+<html>
+	<header></header>
+	<body>
+		<ul>
+			<% cars.forEach(function(car) { %>
+			<li>
+				<strong><%= car.fabricant %></strong>
+				<%= car.modele %>, immatriculée en <%= car.annee %>
+			</li>
+			<% }); %>
+		</ul>
+	</body>
+</html>
