@@ -6,6 +6,9 @@
 body {
 	height: 100vh;
 	width: 100vw;
+	background-image: url(../img/blueSky.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .main {
@@ -13,9 +16,11 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	height: 100%;
-	width: 100%;
-	gap: 15%;
+	padding-top: 100px;
+	width: 1700px;
+	gap: 50px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .weather {
@@ -24,13 +29,14 @@ body {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	gap: 5%;
+	gap: 10px;
 	height: 10%;
 	width: 10%;
+	color: whitesmoke;
 }
 
 .weatherImg {
-	height: 50%;
+	height: 50px;
 
 	object-fit: contain;
 }
@@ -38,13 +44,14 @@ body {
 .news {
 	height: 60%;
 	width: 80%;
-
+	gap: 120px;
 	display: flex;
 	flex-direction: column;
+	align-items: center;
 }
 
 .newsBlock {
-	height: 70%;
+	max-height: 600px;
 	width: 100%;
 
 	display: flex;
@@ -52,17 +59,20 @@ body {
 }
 
 .newsList {
-	height: 100%;
+	
 	width: 30%;
 
 	display: flex;
 	flex-direction: column;
 
 	align-items: center;
+	overflow-y: auto;
+	
+	
 }
 
 .jvImg {
-	height: 100%;
+	height: 200px;
 	width: 100%;
 	object-fit: cover;
 }
@@ -71,30 +81,36 @@ body {
 	flex-direction: column;
 	align-items: center;
 	width: 100%;
-	height: 30%;
+	min-height: 30%;
 }
 .cineNews {
 	height: 30%;
-	width: 100%;
+	width: 50%;
 	display: flex;
 	gap: 10px;
-
-	background-color: brown;
+	justify-content: center;
+	overflow-x: auto;
+	
+	
 }
 
 .infoTrain {
 	display: flex;
 	justify-content: space-around;
 	gap: 15px;
+	padding-top: 18px;
+	
 }
 
 .train {
-	gap: 10px;
+	
 	background-color: rgb(217, 217, 217);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: 25%;
+	
+	min-height: 80px;
+	
 }
 .jvTitle {
 	background-color: red;
@@ -103,8 +119,24 @@ body {
 }
 
 .trainTitle {
-	margin-top: 2%;
+	
 	background-color: rgb(118, 132, 168);
 	width: 100%;
 	text-align: center;
+}
+
+.cine{
+	height: 100%;
+}
+
+
+.cineImg{
+	object-fit: contain;
+	height: 210px;
+	
+}
+
+.cineTitle{
+	text-align: center;
+	background-color: rgb(38, 35, 168);
 }
