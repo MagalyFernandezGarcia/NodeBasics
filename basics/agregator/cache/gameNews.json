@@ -2,6 +2,16 @@
 	"items": [
 		{
 			"category": [
+				"News jeu"
+			],
+			"title": "Avec la fermeture de Concord, les joueurs s'arrangent entre eux pour obtenir le trophée Platine... et c'est hilarant à voir",
+			"pubDate": "Thu, 05 Sep 2024 12:50:02 +0200",
+			"description": "Le jeu vidéo Concord sera débranché ce week-end par Sony. De quoi laisse une poignée de jours aux amateurs de trophées et succès, qui redoublent d'inventivité pour tous les obtenir avant la fermeture.",
+			"link": "https://www.jeuxvideo.com/news/1920510/avec-la-fermeture-de-concord-les-joueurs-s-arrangent-entre-eux-pour-obtenir-le-trophee-platine-et-c-est-hilarant-a-voir.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172545/1725451796-5361-card.jpg"
+		},
+		{
+			"category": [
 				"News culture"
 			],
 			"title": "Après un départ canon, la saison 2 des Anneaux de Pouvoir prend (trop) son temps. L'épisode 4  s'embourbe dans l'univers du Seigneur des Anneaux",
@@ -189,16 +199,6 @@
 			"description": "Deadpool & Wolverine a beau être en salles depuis plus d’un mois, Ryan Reynolds continue à chanter les louanges de son film et des artistes avec lesquels il a pu collaborer dessus. Derniers en date : les cascadeurs.",
 			"link": "https://www.jeuxvideo.com/news/1920235/buster-keaton-et-chaplin-etaient-des-cascadeurs-ryan-reynolds-milite-pour-la-creation-d-un-oscar-apres-le-succes-de-deadpool-wolverine.htm",
 			"imageURL": "https://image.jeuxvideo.com/medias-lg/172538/1725375815-4740-card.jpg"
-		},
-		{
-			"category": [
-				"News jeu"
-			],
-			"title": "Les fans de Dragon Ball sont gâtés : après Sparking Zero, il y aura déjà un nouveau jeu vidéo en 2025 !",
-			"pubDate": "Wed, 04 Sep 2024 19:20:02 +0200",
-			"description": "Alors que tous les yeux sont rivés sur Sparking Zero, les fans de Dragon Ball vont continuer à être gâtés en jeux vidéo. Après le jeu de combat sur consoles et PC, c'est une toute nouvelle expérience sur mobiles et PC qui débarque, et ce dès l'an prochain !",
-			"link": "https://www.jeuxvideo.com/news/1920518/les-fans-de-dragon-ball-sont-gates-apres-sparking-zero-il-y-aura-deja-un-nouveau-jeu-video-en-2025.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172545/1725453117-7341-card.jpg"
 		}
 	]
 }

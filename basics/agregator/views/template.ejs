@@ -6,8 +6,10 @@
 		<main class="main">
 			<section class="weather">
 				<img src=<%=iconWeather %> alt="iconWeather" class="weatherImg"/>
-				<p><%= weather.forecast[15].time %></p>
-				<p><%= weather.forecast[15].temperature %> °C</p>
+				<% index = (new Date()).getHours() %>
+				
+				<p><%= weather.forecast[index].time.split("T").join(" ") %></p>
+				<p><%= weather.forecast[index].temperature %> °C</p>
 			</section>
 			<section class="news">
 				<div class="newsBlock">

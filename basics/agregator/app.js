@@ -15,8 +15,6 @@ app.listen(8000, function () {
 });
 
 app.get("/", function (request, response) {
-	console.log(megaJSON);
-
 	response.render("template.ejs", megaJSON);
 });
 
@@ -25,7 +23,7 @@ setInterval(refreshWeather, 60 * 60 * 1000);
 refreshRSSLeMonde();
 setInterval(refreshRSSLeMonde, 30 * 60 * 1000);
 refreshRail();
-setInterval(refreshRail, 30 * 60 * 1000);
+setInterval(refreshRail, 60 * 1000);
 refreshRSSJV();
 setInterval(refreshRSSJV, 30 * 60 * 1000);
 
