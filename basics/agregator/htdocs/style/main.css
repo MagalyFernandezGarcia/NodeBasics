@@ -121,7 +121,7 @@ body {
 }
 
 .cineImg {
-	object-fit: contain;
+	object-fit: cover;
 	height: 210px;
 }
 
