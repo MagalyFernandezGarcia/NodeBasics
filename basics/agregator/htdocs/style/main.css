@@ -16,7 +16,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	padding-top: 100px;
+	padding-top: 50px;
 	width: 1700px;
 	gap: 50px;
 	margin-right: auto;
@@ -44,14 +44,14 @@ body {
 .news {
 	height: 60%;
 	width: 80%;
-	gap: 120px;
+	gap: 60px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 
 .newsBlock {
-	max-height: 600px;
+	max-height: 400px;
 	width: 100%;
 
 	display: flex;
@@ -59,7 +59,6 @@ body {
 }
 
 .newsList {
-	
 	width: 30%;
 
 	display: flex;
@@ -67,8 +66,6 @@ body {
 
 	align-items: center;
 	overflow-y: auto;
-	
-	
 }
 
 .jvImg {
@@ -90,8 +87,6 @@ body {
 	gap: 10px;
 	justify-content: center;
 	overflow-x: auto;
-	
-	
 }
 
 .infoTrain {
@@ -99,18 +94,15 @@ body {
 	justify-content: space-around;
 	gap: 15px;
 	padding-top: 18px;
-	
 }
 
 .train {
-	
 	background-color: rgb(217, 217, 217);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	
+
 	min-height: 80px;
-	
 }
 .jvTitle {
 	background-color: red;
@@ -119,24 +111,21 @@ body {
 }
 
 .trainTitle {
-	
 	background-color: rgb(118, 132, 168);
 	width: 100%;
 	text-align: center;
 }
 
-.cine{
+.cine {
 	height: 100%;
 }
 
-
-.cineImg{
+.cineImg {
 	object-fit: contain;
 	height: 210px;
-	
 }
 
-.cineTitle{
+.cineTitle {
 	text-align: center;
 	background-color: rgb(38, 35, 168);
 }

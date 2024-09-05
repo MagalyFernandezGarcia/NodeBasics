@@ -1,16 +1,16 @@
 const https = require("https");
 const fileStream = require("fs");
 
-const request = {
-	host: "api.open-meteo.com",
-	port: 443,
-	path: "/v1/forecast?latitude=50.85&longitude=4.35&hourly=temperature_2m",
-};
-
 refreshWeather();
 setInterval(refreshWeather, 60 * 60 * 1000); //toutes les heures
 
 function refreshWeather() {
+	const request = {
+		host: "api.open-meteo.com",
+		port: 443,
+		path: "/v1/forecast?latitude=50.85&longitude=4.35&hourly=temperature_2m",
+	};
+
 	https.get(request, receiveResponse);
 
 	function receiveResponse(response) {
