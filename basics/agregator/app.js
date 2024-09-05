@@ -2,8 +2,8 @@ const express = require("express");
 const app = express();
 const https = require("https");
 const fileStream = require("fs");
-const { log } = require("console");
 const parseString = require("xml2js").parseString;
+require("dotenv").config();
 
 app.set("view engine", "ejs");
 app.use("/", express.static(__dirname + "/htdocs"));
@@ -194,6 +194,41 @@ function refreshRSSJV() {
 					}
 				);
 			});
+		});
+	}
+}
+
+refreshWeatherIcon();
+
+function refreshWeatherIcon() {
+	const request = {
+		host: "api.openweathermap.org",
+		port: 443,
+		path: `/data/2.5/weather?q=brussel&appid=${process.env.APITOKEN}`,
+	};
+
+	https.get(request, receiveResponse);
+
+	function receiveResponse(response) {
+		let rawData = "";
+		console.log("got response " + response.statusCode);
+		response.on("data", (chunk) => {
+			rawData += chunk;
+		});
+		response.on("end", function (chunk) {
+			// console.log(rawData);
+			const infoWeather = JSON.parse(rawData);
+
+			const iconWeather = { icon: infoWeather.weather[0].icon };
+
+			fileStream.writeFile(
+				"./cache/icon.json",
+				JSON.stringify(iconWeather, null, "\t"),
+				function (err) {
+					if (err) console.log(err);
+					else console.log("file saved");
+				}
+			);
 		});
 	}
 }
