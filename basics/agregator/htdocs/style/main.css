@@ -82,7 +82,7 @@ body {
 }
 .cineNews {
 	height: 30%;
-	width: 50%;
+	width: 60%;
 	display: flex;
 	gap: 10px;
 	justify-content: center;
@@ -108,6 +108,7 @@ body {
 	background-color: red;
 	width: 100%;
 	text-align: center;
+	max-height: 30px;
 }
 
 .trainTitle {
@@ -128,4 +129,6 @@ body {
 .cineTitle {
 	text-align: center;
 	background-color: rgb(38, 35, 168);
+	height: 40px;
+	max-height: 40px;
 }

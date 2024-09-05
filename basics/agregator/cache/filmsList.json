@@ -1,6 +1,13 @@
 {
 	"items": [
 		{
+			"title": "Le réalisateur Laurent Tirard est mort, à l’âge de 57 ans",
+			"pubDate": "Thu, 05 Sep 2024 13:26:27 +0200",
+			"description": "Connu pour ses adaptations, comme « Le Petit Nicolas » ou « Astérix et Obélix : au service de Sa Majesté », le réalisateur est mort à Paris au terme d’« un long combat face à la maladie », a annoncé son agent.",
+			"link": "https://www.lemonde.fr/culture/article/2024/09/05/le-realisateur-laurent-tirard-est-mort-a-l-age-de-57-ans_6304803_3246.html",
+			"imageURL": "https://img.lemde.fr/2024/09/05/422/0/3958/1979/644/322/60/0/5aa1fc7_5592192-01-06.jpg"
+		},
+		{
 			"title": "Dans « Joker : folie à deux », Lady Gaga et Joaquin Phoenix livrent un show inégal",
 			"pubDate": "Wed, 04 Sep 2024 19:00:01 +0200",
 			"description": "En lice pour le Lion d’or, le film musical de Todd Phillips, en salles à partir du 2 octobre, éclaire le personnage du méchant de Batman, mais sans grande inventivité.",
@@ -87,7 +94,7 @@
 		{
 			"title": "Trump Fictions : « Sound of Freedom », tous complices",
 			"pubDate": "Sat, 31 Aug 2024 06:00:29 +0200",
-			"description": "En 2023, l’ancien président conseille à ses partisans un film qu’il présente comme un « documentaire ». Mais c’est bel et bien une fiction à la gloire de Tim Ballard, le patron d��savoué d’une officine paramilitaire censée lutter contre les réseaux pédophiles. En tête d’affiche, Jim Caviezel, un acteur ouvertement complotiste.",
+			"description": "En 2023, l’ancien président conseille à ses partisans un film qu’il présente comme un « documentaire ». Mais c’est bel et bien une fiction à la gloire de Tim Ballard, le patron désavoué d’une officine paramilitaire censée lutter contre les réseaux pédophiles. En tête d’affiche, Jim Caviezel, un acteur ouvertement complotiste.",
 			"link": "https://www.lemonde.fr/series-d-ete/article/2024/08/31/trump-fictions-sound-of-freedom-tous-complices_6300055_3451060.html",
 			"imageURL": "https://img.lemde.fr/2024/07/05/684/0/5169/2584/644/322/60/0/16d0060_1720188175679-rea7598010.jpg"
 		},
@@ -132,13 +139,6 @@
 			"description": "L’actrice incarne, dans le film de Patricia Mazuy, Alma, une bourgeoise, épouse d’un homme incarcéré. Dans un entretien au « Monde », elle revient sur sa carrière et évoque son prochain rôle de présidente du jury à la Mostra de Venise.",
 			"link": "https://www.lemonde.fr/culture/article/2024/08/28/isabelle-huppert-a-l-affiche-dans-la-prisonniere-de-bordeaux-j-ai-parfois-l-impression-que-le-cinema-devient-une-forme-d-archeologie_6297938_3246.html",
 			"imageURL": "https://img.lemde.fr/2024/08/26/272/0/2344/1172/644/322/60/0/ab2c3cc_1724668735651-i-huppert-seule.jpg"
-		},
-		{
-			"title": "Dans « Septembre sans attendre », Jonas Trueba filme un couple entre séparation ou remariage, pour le meilleur et pour le rire",
-			"pubDate": "Wed, 28 Aug 2024 15:30:09 +0200",
-			"description": "Après « Eva en août », qui l’a révélé en France en 2020, le cinéaste espagnol enchante avec une comédie déroulant une nouvelle saison de l’amour, avec les mêmes acteurs, dont sa compagne, Itsaso Arana.",
-			"link": "https://www.lemonde.fr/culture/article/2024/08/28/dans-septembre-sans-attendre-jonas-trueba-filme-un-couple-entre-separation-ou-remariage-pour-le-meilleur-et-pour-le-rire_6297646_3246.html",
-			"imageURL": "https://img.lemde.fr/2024/08/22/390/0/6720/3360/644/322/60/0/7f7b10e_1724327940562-02s-septembre-sans-attendre-itsaso-arana-vito-sanz-o-i-lisbeth-salas-losilusosfilms-2024.jpg"
 		}
 	]
 }

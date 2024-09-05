@@ -5,10 +5,44 @@
 	<body>
 		<main class="main">
 			<section class="weather">
-				<img src="./img/sun.svg" alt="iconWeather" class="weatherImg" />
-				<p><%= forecast[0].time %></p>
-				<p><%= forecast[0].temperature %> °C</p>
+				<img src=<%=iconWeather %> alt="iconWeather" class="weatherImg"/>
+				<p><%= weather.forecast[15].time %></p>
+				<p><%= weather.forecast[15].temperature %> °C</p>
 			</section>
-			
+			<section class="news">
+				<div class="newsBlock">
+					<div class="newsList">
+						<% games.items.forEach(item => { %>
+						<div class="infoContainer">
+							<h5 class="jvTitle"><%= item.title %></h5>
+							<img src=<%=item.imageURL%> alt="nintendo" class="jvImg" />
+						</div>
+						<%}); %>
+					</div>
+
+					<div class="newsList">
+						<% train.items.forEach(item => { %>
+						<div class="infoContainer train">
+							<h3 class="trainTitle"><%= item.station %></h3>
+							<div class="infoTrain">
+								<p>Départ: <%= item.hour %></p>
+								<p>Quai: <%= item.plateform %></p>
+								<p>Retard: <%= item.delay %> '</p>
+							</div>
+						</div>
+						<%}); %>
+					</div>
+				</div>
+				<div class="cineNews">
+					<% films.items.forEach(item => { %>
+					<div class="cine">
+						<img src=<%= item.imageURL %> alt="" class="cineImg" />
+						<h5 class="cineTitle"><%= item.title %></h5>
+					</div>
+					<%}); %>
+					
+				</div>
+			</section>
+		</main>
 	</body>
 </html>
