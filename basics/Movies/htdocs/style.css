@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	width: 100vw;
+}
+
+.main {
+	display: flex;
+
+	align-items: center;
+	justify-content: center;
+	padding-top: 100px;
+	width: 1700px;
+	gap: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.list,
+.selection {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.title {
+	padding-top: 0px;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
