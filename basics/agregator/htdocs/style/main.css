@@ -21,6 +21,8 @@ body {
 	gap: 50px;
 	margin-right: auto;
 	margin-left: auto;
+	background-image: url("./images/cinema.jpg");
+	
 }
 
 .weather {

@@ -6,18 +6,25 @@
 body {
 	height: 100vh;
 	width: 100vw;
+	
+	
+	
 }
 
 .main {
 	display: flex;
-
-	align-items: center;
-	justify-content: center;
-	padding-top: 100px;
+	
+	background-image: url("images/cinema.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+	justify-content: space-evenly;
+	padding-top: 150px;
 	width: 1700px;
 	gap: 50px;
 	margin-right: auto;
 	margin-left: auto;
+	min-height: 100%;
 }
 
 .list,
@@ -35,4 +42,5 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
+	padding-top: 10px;
 }
