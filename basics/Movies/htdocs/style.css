@@ -3,28 +3,32 @@
 	padding: 0;
 }
 
+@font-face {
+	font-family: FuturaRender;
+	src: url(./fonts/futura_regular-webfont.ttf);
+}
+
 body {
 	height: 100vh;
 	width: 100vw;
-	
-	
-	
 }
 
 .main {
 	display: flex;
-	
+
 	background-image: url("images/cinema.jpg");
 	background-size: contain;
 	background-repeat: no-repeat;
-	
-	justify-content: space-evenly;
+
+	justify-content: center;
 	padding-top: 150px;
 	width: 1700px;
-	gap: 50px;
+	gap: 100px;
+
 	margin-right: auto;
 	margin-left: auto;
-	min-height: 100%;
+	min-height: 795px;
+	font-family: FuturaRender;
 }
 
 .list,
@@ -32,15 +36,109 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
+	align-items: center;
+	height: 470px;
 }
 
 .title {
 	padding-top: 0px;
+	text-align: center;
 }
 
 .content {
 	display: flex;
 	flex-direction: column;
-	gap: 10px;
+	gap: 16px;
 	padding-top: 10px;
+	height: 100%;
+	position: relative;
+}
+
+.list {
+	overflow-y: auto;
+	p:hover {
+		cursor: pointer;
+		background-color: #fb6065;
+	}
+}
+
+.icon {
+	width: 15px;
+	border: solid, 1px;
+	padding: 2px;
+}
+
+.buttons {
+	position: absolute;
+	bottom: 0%;
+	display: flex;
+	gap: 16px;
+}
+
+.buttons :hover {
+	cursor: pointer;
+	background-color: gray;
+}
+
+.info {
+	display: flex;
+	gap: 10px;
+	align-items: flex-start;
+	padding-bottom: 8px;
+}
+
+.resume {
+	width: 500px;
+	overflow: auto;
+}
+
+.listMovie {
+	align-items: center;
+}
+
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+
+	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Modal Content/Box */
+.modal-content {
+	background-color: #fefefe;
+	margin: 15% auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 40%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+}
+
+.modalBtn {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border-radius: 15px;
+	border: solid, 1px;
+	background-color: whitesmoke;
+}
+
+.modalBtn:hover {
+	cursor: pointer;
+	background-color: #fb6065;
+}
+
+.contentModalBtn {
+	display: flex;
+	gap: 10px;
 }
