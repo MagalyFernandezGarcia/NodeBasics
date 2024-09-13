@@ -105,10 +105,9 @@ function movieID(arrayofMovies) {
 function deleteMovie(btn, movieId) {
 	btn.addEventListener("click", (event) => {
 		const modalBtn = document.querySelectorAll(".modalBtn");
-		console.log(modalBtn);
-
 		modal.style.display = "block";
-		if (event.target.id === "delete") {
+
+		modalBtn[0].addEventListener("click", () => {
 			console.log("delete");
 
 			fetch("http://localhost:8000/movie/" + movieId, {
@@ -120,10 +119,12 @@ function deleteMovie(btn, movieId) {
 				.catch(function (err) {
 					console.log(err);
 				});
-		} else if (event.target.id === "close") {
+		});
+
+		modalBtn[1].addEventListener("click", () => {
 			console.log("annulé");
 
 			modal.style.display = "none";
-		}
+		});
 	});
 }
