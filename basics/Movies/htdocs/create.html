@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link rel="stylesheet" href="./create.css" />
+	</head>
+	<body>
+		<main class="main">
+			<form action="/movies" method="POST" id="form">
+				<div class="block">
+					<label for="name">Nom du film</label>
+					<input type="text" name="name" />
+				</div>
+				<div class="block">
+					<label for="movieImg">lien vers l'image</label>
+					<input type="text" name="movieImg" />
+				</div>
+				<div class="block">
+					<label for="year">Année de sortie</label>
+					<input type="number" name="year" />
+				</div>
+				<div class="block">
+					<label for="certificate">Certificat</label>
+					<input type="text" name="certificate" />
+				</div>
+				<div class="block">
+					<label for="time">Durée</label>
+					<input type="text" name="time" />
+				</div>
+				<div class="block">
+					<label for="type">Genre</label>
+					<input type="text" name="type" />
+				</div>
+				<div class="block">
+					<label for="imdbScore">Score IMDB</label>
+					<input type="number" name="imdbScore" step="any" />
+				</div>
+				<div class="block">
+					<label for="resume">Résumé</label>
+					<textarea name="resume" maxlength="900" spellcheck="true"></textarea>
+				</div>
+				<div class="block">
+					<label for="metaScore">Méta score</label>
+					<input type="number" name="metaScore" />
+				</div>
+				<div class="block">
+					<label for="director">Directeur</label>
+					<input type="text" name="director" />
+				</div>
+				<div class="block">
+					<label for="star1">Première Star</label>
+					<input type="text" name="star1" />
+				</div>
+				<div class="block">
+					<label for="star2">Deuxième Star</label>
+					<input type="text" name="star2" />
+				</div>
+				<div class="block">
+					<label for="star3">Troisième Star</label>
+					<input type="text" name="star3" />
+				</div>
+				<div class="block">
+					<label for="star4">Quatrième Star</label>
+					<input type="text" name="star4" />
+				</div>
+				<div class="block">
+					<label for="nbVotes">Nombres de votes</label>
+					<input type="number" name="nbVotes" />
+				</div>
+				<div class="block">
+					<label for="income">Bénéfices</label>
+					<input type="text" name="income" />
+				</div>
+				<div class="btns">
+					<button type="submit">Ajouter</button>
+					<button type="reset">Effacer tout</button>
+				</div>
+			</form>
+		</main>
+	</body>
+</html>

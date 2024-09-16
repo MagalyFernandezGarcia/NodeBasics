@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link rel="stylesheet" href="./create.css" />
+		<script defer src="./script/update.js"></script>
+	</head>
+	<body>
+		<main class="main">
+			<form action="/movies" method="PUT" id="updateForm">
+				<div class="block">
+					<label for="Series_Title">Nom du film</label>
+					<input type="text" name="Series_Title" id="Series_Title" />
+				</div>
+				<div class="block">
+					<label for="Poster_Link">lien vers l'image</label>
+					<input type="text" name="Poster_Link" id="Poster_Link" />
+				</div>
+				<div class="block">
+					<label for="Released_Year">Année de sortie</label>
+					<input type="text" name="Released_Year" id="Released_Year" />
+				</div>
+				<div class="block">
+					<label for="Certificate">Certificat</label>
+					<input type="text" name="Certificate" id="Certificate" />
+				</div>
+				<div class="block">
+					<label for="Runtime">Durée</label>
+					<input type="text" name="Runtime" id="Runtime" />
+				</div>
+				<div class="block">
+					<label for="Genre">Genre</label>
+					<input type="text" name="Genre" id="Genre" />
+				</div>
+				<div class="block">
+					<label for="IMDB_Rating">Score IMDB</label>
+					<input type="text" name="IMDB_Rating" step="any" id="IMDB_Rating" />
+				</div>
+				<div class="block">
+					<label for="Overview">Résumé</label>
+					<textarea
+						name="Overview"
+						maxlength="900"
+						spellcheck="true"
+						id="Overview"
+					></textarea>
+				</div>
+				<div class="block">
+					<label for="Meta_Score">Méta score</label>
+					<input type="number" name="Meta_Score" id="Meta_Score" />
+				</div>
+				<div class="block">
+					<label for="Director">Directeur</label>
+					<input type="text" name="Director" id="Director" />
+				</div>
+				<div class="block">
+					<label for="Star1">Première Star</label>
+					<input type="text" name="Star1" id="Star1" />
+				</div>
+				<div class="block">
+					<label for="Star2">Deuxième Star</label>
+					<input type="text" name="Star2" id="Star2" />
+				</div>
+				<div class="block">
+					<label for="Star3">Troisième Star</label>
+					<input type="text" name="Star3" id="Star3" />
+				</div>
+				<div class="block">
+					<label for="Star4">Quatrième Star</label>
+					<input type="text" name="Star4" id="Star4" />
+				</div>
+				<div class="block">
+					<label for="No_of_Votes">Nombres de votes</label>
+					<input type="number" name="No_of_Votes" id="No_of_Votes" />
+				</div>
+				<div class="block">
+					<label for="Gross">Bénéfices</label>
+					<input type="text" name="Gross" id="Gross" />
+				</div>
+				<div class="btns">
+					<button type="submit" id="editBtn">Modifier</button>
+					<button type="reset">Effacer tout</button>
+				</div>
+			</form>
+			<script defer></script>
+		</main>
+	</body>
+</html>

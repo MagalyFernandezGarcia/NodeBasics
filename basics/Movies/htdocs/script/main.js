@@ -3,6 +3,7 @@ const movieCard = document.querySelector(".movieContent");
 const movieCardInfo = document.querySelector(".info");
 const CRUDBtn = document.querySelector(".buttons");
 const modal = document.querySelector(".modal");
+const add = document.getElementById("addBtn");
 
 fetch("http://localhost:8000/movies")
 	.then(function (response) {
@@ -88,6 +89,8 @@ function movieID(arrayofMovies) {
 
 	CRUDBtn.append(deleteBtn, addBtn, updateBtn);
 	deleteMovie(deleteBtn, selectedMovie._id);
+	addMovie(addBtn);
+	editMovie(updateBtn, selectedMovie._id);
 
 	movieCard.append(
 		titleMovie,
@@ -100,6 +103,16 @@ function movieID(arrayofMovies) {
 		income,
 		CRUDBtn
 	);
+}
+
+add.addEventListener("click", () => {
+	window.location.replace("./create.html");
+});
+
+function addMovie(btn) {
+	btn.addEventListener("click", () => {
+		window.location.replace("./create.html");
+	});
 }
 
 function deleteMovie(btn, movieId) {
@@ -126,5 +139,11 @@ function deleteMovie(btn, movieId) {
 
 			modal.style.display = "none";
 		});
+	});
+}
+
+function editMovie(btn, movieID) {
+	btn.addEventListener("click", () => {
+		window.location = "./update.html?id=" + movieID;
 	});
 }

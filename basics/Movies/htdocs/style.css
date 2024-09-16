@@ -111,16 +111,19 @@ body {
 
 /* Modal Content/Box */
 .modal-content {
-	background-color: #fefefe;
+	background-image: url(./images/ticket.png);
+	background-size: contain;
+	background-repeat: no-repeat;
 	margin: 15% auto;
 	padding: 20px;
 	border: 1px solid #888;
-	width: 40%;
+	width: 30%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	gap: 20px;
+	gap: 40px;
+	height: 30%;
 }
 
 .modalBtn {
@@ -130,7 +133,7 @@ body {
 	padding-right: 8px;
 	border-radius: 15px;
 	border: solid, 1px;
-	background-color: whitesmoke;
+	background-color: #d3d199;
 }
 
 .modalBtn:hover {
