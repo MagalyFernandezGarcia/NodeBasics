@@ -27,8 +27,8 @@ function addList(arrayofMovies) {
 				.then(function (response) {
 					return response.json();
 				})
-				.then(function (movies) {
-					movieID(movies);
+				.then(function (movie) {
+					movieID(movie);
 				})
 				.catch(function (err) {
 					console.log(err);
@@ -37,11 +37,11 @@ function addList(arrayofMovies) {
 	});
 }
 
-function movieID(arrayofMovies) {
+function movieID(selectedMovie) {
+	console.log(selectedMovie);
 	movieCard.innerHTML = "";
 	movieCardInfo.innerHTML = "";
 	CRUDBtn.innerHTML = "";
-	const selectedMovie = arrayofMovies[0];
 	const img = document.createElement("img");
 	img.src = selectedMovie.Poster_Link;
 	img.className = "moviePoster";
@@ -70,12 +70,17 @@ function movieID(arrayofMovies) {
 	resume.className = "resume";
 	IMDBScore.innerText = `Score IMDB: ${selectedMovie.IMDB_Rating}`;
 	nbrOfVotes.innerText = `Nombre de votes: ${selectedMovie.No_of_Votes}`;
-	const currencyIncome = selectedMovie.Gross.toLocaleString("en-US", {
-		style: "currency",
-		currency: "USD",
-	});
 
-	income.innerText = `Bénéfice: $${currencyIncome}`;
+	if (selectedMovie.Gross === undefined) {
+		income.innerText = ``;
+	} else {
+		const currencyIncome = selectedMovie.Gross.toLocaleString("en-US", {
+			style: "currency",
+			currency: "USD",
+		});
+
+		income.innerText = `Bénéfice: $${currencyIncome}`;
+	}
 
 	const deleteBtn = document.createElement("img");
 	const addBtn = document.createElement("img");

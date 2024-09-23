@@ -28,7 +28,8 @@ body {
 	font-family: FuturaRender;
 }
 
-#form {
+#form,
+#updateForm {
 	display: flex;
 	flex-direction: column;
 	gap: 10px;

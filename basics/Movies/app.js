@@ -45,7 +45,7 @@ app.post("/movies", function (request, response) {
 
 app.put("/movies/:id", function (request, response) {
 	updateMovie(request.params.id, request.body).then(function () {
-		response.header("Content-Type", "application/json");
+		response.send("OK");
 	});
 });
 
@@ -77,7 +77,7 @@ async function findAMovie(movieToFInd) {
 	const moviesCollection = moviesDataBase.collection("Movies");
 	const query = { _id: new ObjectId(movieToFInd) };
 	const movie = await moviesCollection.find(query).toArray();
-	return movie;
+	return movie[0];
 }
 
 async function deleteAMovie(movieToFInd) {

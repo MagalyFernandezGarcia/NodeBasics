@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="/style/main.css" />
+		<script defer src="/script/main.js"></script>
 	</head>
 	<body>
 		<main class="main">
@@ -8,7 +9,7 @@
 				<img src=<%=iconWeather %> alt="iconWeather" class="weatherImg"/>
 				<% index = (new Date()).getHours() %>
 				
-				<p><%= weather.forecast[index].time.split("T").join(" ") %></p>
+				<p id="dateAndTime"></p>
 				<p><%= weather.forecast[index].temperature %> °C</p>
 			</section>
 			<section class="news">

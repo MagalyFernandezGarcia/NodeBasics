@@ -1,10 +1,316 @@
 {
 	"items": [
 		{
+			"station": "Courtrai",
+			"hour": "15:27:00",
+			"plateform": "9",
+			"delay": 0
+		},
+		{
+			"station": "Bruxelles-Midi",
+			"hour": "15:28:00",
+			"plateform": "5",
+			"delay": 16
+		},
+		{
+			"station": "Saint-Nicolas",
+			"hour": "15:29:00",
+			"plateform": "1",
+			"delay": 0
+		},
+		{
+			"station": "Louvain-la-Neuve",
+			"hour": "15:30:00",
+			"plateform": "7",
+			"delay": 1
+		},
+		{
+			"station": "Bruxelles-Midi",
+			"hour": "15:31:00",
+			"plateform": "8",
+			"delay": 0
+		},
+		{
+			"station": "Charleroi-Central",
+			"hour": "15:32:00",
+			"plateform": "12",
+			"delay": 3
+		},
+		{
+			"station": "Anvers-Central",
+			"hour": "15:32:00",
+			"plateform": "10",
+			"delay": 0
+		},
+		{
+			"station": "Courtrai",
+			"hour": "15:34:00",
+			"plateform": "2",
+			"delay": 7
+		},
+		{
+			"station": "Brussels Airport - Zaventem",
+			"hour": "15:34:00",
+			"plateform": "6",
+			"delay": 0
+		},
+		{
+			"station": "Gand-Saint-Pierre",
+			"hour": "15:37:00",
+			"plateform": "5",
+			"delay": 1
+		},
+		{
+			"station": "Anvers-Central",
+			"hour": "15:38:00",
+			"plateform": "11",
+			"delay": 0
+		},
+		{
+			"station": "Louvain",
+			"hour": "15:40:00",
+			"plateform": "10",
+			"delay": 0
+		},
+		{
+			"station": "Blankenberge",
+			"hour": "15:40:00",
+			"plateform": "8",
+			"delay": 1
+		},
+		{
+			"station": "Welkenraedt",
+			"hour": "15:40:00",
+			"plateform": "1",
+			"delay": 0
+		},
+		{
+			"station": "Zottegem",
+			"hour": "15:42:00",
+			"plateform": "12",
+			"delay": 0
+		},
+		{
+			"station": "Arlon",
+			"hour": "15:43:00",
+			"plateform": "7",
+			"delay": 0
+		},
+		{
+			"station": "Mons",
+			"hour": "15:43:00",
+			"plateform": "4",
+			"delay": 0
+		},
+		{
+			"station": "Turnhout",
+			"hour": "15:44:00",
+			"plateform": "11",
+			"delay": 0
+		},
+		{
+			"station": "Gand-Saint-Pierre",
+			"hour": "15:45:00",
+			"plateform": "9",
+			"delay": 0
+		},
+		{
+			"station": "Brussels Airport - Zaventem",
+			"hour": "15:47:00",
+			"plateform": "3",
+			"delay": 0
+		},
+		{
+			"station": "Nivelles",
+			"hour": "15:47:00",
+			"plateform": "12",
+			"delay": 0
+		},
+		{
+			"station": "Tournai",
+			"hour": "15:49:00",
+			"plateform": "8",
+			"delay": 1
+		},
+		{
+			"station": "Anvers-Central",
+			"hour": "15:49:00",
+			"plateform": "11",
+			"delay": 0
+		},
+		{
+			"station": "Termonde",
+			"hour": "15:49:00",
+			"plateform": "1",
+			"delay": 0
+		},
+		{
+			"station": "Liège-Guillemins",
+			"hour": "15:49:00",
+			"plateform": "6",
+			"delay": 0
+		},
+		{
+			"station": "Ostende",
+			"hour": "15:51:00",
+			"plateform": "4",
+			"delay": 5
+		},
+		{
+			"station": "Saint-Ghislain",
+			"hour": "15:52:00",
+			"plateform": "10",
+			"delay": 0
+		},
+		{
+			"station": "Louvain-la-Neuve",
+			"hour": "15:52:00",
+			"plateform": "7",
+			"delay": 0
+		},
+		{
+			"station": "Braine-le-Comte",
+			"hour": "15:53:00",
+			"plateform": "9",
+			"delay": 0
+		},
+		{
+			"station": "Tongres",
+			"hour": "15:55:00",
+			"plateform": "1",
+			"delay": 0
+		},
+		{
+			"station": "Bruxelles-Midi",
+			"hour": "15:56:00",
+			"plateform": "12",
+			"delay": 0
+		},
+		{
+			"station": "Amsterdam CS",
+			"hour": "15:56:00",
+			"plateform": "6",
+			"delay": 0
+		},
+		{
+			"station": "Termonde",
+			"hour": "15:56:00",
+			"plateform": "2",
+			"delay": 0
+		},
+		{
+			"station": "Poperinge",
+			"hour": "15:57:00",
+			"plateform": "8",
+			"delay": 0
+		},
+		{
+			"station": "Tournai",
+			"hour": "16:01:00",
+			"plateform": "9",
+			"delay": 1
+		},
+		{
+			"station": "Hasselt",
+			"hour": "16:02:00",
+			"plateform": "3",
+			"delay": 0
+		},
+		{
+			"station": "Charleroi-Central",
+			"hour": "16:02:00",
+			"plateform": "12",
+			"delay": 0
+		},
+		{
+			"station": "Essen",
+			"hour": "16:02:00",
+			"plateform": "11",
+			"delay": 0
+		},
+		{
+			"station": "Brussels Airport - Zaventem",
+			"hour": "16:02:00",
+			"plateform": "6",
+			"delay": 0
+		},
+		{
+			"station": "Courtrai",
+			"hour": "16:04:00",
+			"plateform": "5",
+			"delay": 0
+		},
+		{
+			"station": "Bruxelles-Midi",
+			"hour": "16:05:00",
+			"plateform": "8",
+			"delay": 2
+		},
+		{
+			"station": "Alost",
+			"hour": "16:06:00",
+			"plateform": "1",
+			"delay": 2
+		},
+		{
+			"station": "Anvers-Central",
+			"hour": "16:06:00",
+			"plateform": "10",
+			"delay": 0
+		},
+		{
+			"station": "Eupen",
+			"hour": "16:07:00",
+			"plateform": "7",
+			"delay": 0
+		},
+		{
+			"station": "Gand-Saint-Pierre",
+			"hour": "16:08:00",
+			"plateform": "4",
+			"delay": 0
+		},
+		{
+			"station": "Bruxelles-Midi",
+			"hour": "16:08:00",
+			"plateform": "9",
+			"delay": 2
+		},
+		{
+			"station": "Louvain",
+			"hour": "16:10:00",
+			"plateform": "6",
+			"delay": 0
+		},
+		{
+			"station": "Tongres",
+			"hour": "16:11:00",
+			"plateform": "3",
+			"delay": 0
+		},
+		{
+			"station": "Mol",
+			"hour": "16:11:00",
+			"plateform": "11",
+			"delay": 0
+		},
+		{
 			"station": "Nivelles",
 			"hour": "16:12:00",
 			"plateform": "12",
 			"delay": 0
+		},
+		{
+			"station": "Zottegem",
+			"hour": "16:12:00",
+			"plateform": "2",
+			"delay": 1
+		},
+		{
+			"station": "Quievrain",
+			"hour": "16:13:00",
+			"plateform": "9",
+			"delay": 1
 		},
 		{
 			"station": "Liège-Saint-Lambert",
@@ -13,27 +319,27 @@
 			"delay": 0
 		},
 		{
-			"station": "Liège-Guillemins",
-			"hour": "16:15:00",
-			"plateform": "1",
-			"delay": 3
-		},
-		{
 			"station": "Knokke",
 			"hour": "16:15:00",
 			"plateform": "4",
 			"delay": 0
 		},
 		{
-			"station": "Anvers-Central",
-			"hour": "16:16:00",
-			"plateform": "11",
+			"station": "Liège-Guillemins",
+			"hour": "16:15:00",
+			"plateform": "1",
 			"delay": 0
 		},
 		{
 			"station": "Mouscron",
 			"hour": "16:16:00",
 			"plateform": "10",
+			"delay": 4
+		},
+		{
+			"station": "Anvers-Central",
+			"hour": "16:16:00",
+			"plateform": "11",
 			"delay": 0
 		},
 		{
@@ -43,16 +349,16 @@
 			"delay": 0
 		},
 		{
-			"station": "Ostende",
+			"station": "Brussels Airport - Zaventem",
 			"hour": "16:19:00",
-			"plateform": "?",
+			"plateform": "3",
 			"delay": 0
 		},
 		{
-			"station": "Brussels Airport - Zaventem",
+			"station": "Ostende",
 			"hour": "16:19:00",
-			"plateform": "2",
-			"delay": 2
+			"plateform": "5",
+			"delay": 0
 		},
 		{
 			"station": "Binche",
@@ -67,33 +373,33 @@
 			"delay": 0
 		},
 		{
+			"station": "Schaerbeek",
+			"hour": "16:22:00",
+			"plateform": "11",
+			"delay": 0
+		},
+		{
 			"station": "Braine-le-Comte",
 			"hour": "16:22:00",
 			"plateform": "9",
 			"delay": 0
 		},
 		{
-			"station": "Schaerbeek",
-			"hour": "16:22:00",
-			"plateform": "?",
-			"delay": 0
-		},
-		{
-			"station": "Courtrai",
+			"station": "Genk",
 			"hour": "16:23:00",
-			"plateform": "4",
+			"plateform": "6",
 			"delay": 0
 		},
 		{
 			"station": "Alost",
 			"hour": "16:23:00",
 			"plateform": "1",
-			"delay": 1
+			"delay": 0
 		},
 		{
-			"station": "Genk",
+			"station": "Courtrai",
 			"hour": "16:23:00",
-			"plateform": "6",
+			"plateform": "4",
 			"delay": 0
 		},
 		{
@@ -119,342 +425,6 @@
 			"hour": "16:27:00",
 			"plateform": "9",
 			"delay": 1
-		},
-		{
-			"station": "Saint-Nicolas",
-			"hour": "16:29:00",
-			"plateform": "1",
-			"delay": 0
-		},
-		{
-			"station": "Anvers-Central",
-			"hour": "16:30:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Louvain-la-Neuve",
-			"hour": "16:30:00",
-			"plateform": "7",
-			"delay": 0
-		},
-		{
-			"station": "Bruxelles-Midi",
-			"hour": "16:31:00",
-			"plateform": "8",
-			"delay": 1
-		},
-		{
-			"station": "Charleroi-Central",
-			"hour": "16:32:00",
-			"plateform": "12",
-			"delay": 0
-		},
-		{
-			"station": "Francfort-sur-le-Main Hbf",
-			"hour": "16:32:00",
-			"plateform": "3",
-			"delay": 0
-		},
-		{
-			"station": "Courtrai",
-			"hour": "16:34:00",
-			"plateform": "2",
-			"delay": 0
-		},
-		{
-			"station": "Brussels Airport - Zaventem",
-			"hour": "16:34:00",
-			"plateform": "6",
-			"delay": 0
-		},
-		{
-			"station": "La Panne",
-			"hour": "16:34:00",
-			"plateform": "?",
-			"delay": 0
-		},
-		{
-			"station": "Anvers-Central",
-			"hour": "16:38:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Gand-Saint-Pierre",
-			"hour": "16:38:00",
-			"plateform": "5",
-			"delay": 1
-		},
-		{
-			"station": "Welkenraedt",
-			"hour": "16:40:00",
-			"plateform": "1",
-			"delay": 0
-		},
-		{
-			"station": "Blankenberge",
-			"hour": "16:40:00",
-			"plateform": "8",
-			"delay": 2
-		},
-		{
-			"station": "Louvain",
-			"hour": "16:40:00",
-			"plateform": "6",
-			"delay": 0
-		},
-		{
-			"station": "Zottegem",
-			"hour": "16:41:00",
-			"plateform": "12",
-			"delay": 0
-		},
-		{
-			"station": "Mons",
-			"hour": "16:43:00",
-			"plateform": "4",
-			"delay": 0
-		},
-		{
-			"station": "Arlon",
-			"hour": "16:43:00",
-			"plateform": "7",
-			"delay": 0
-		},
-		{
-			"station": "Turnhout",
-			"hour": "16:44:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Jemeppe-sur-Sambre",
-			"hour": "16:44:00",
-			"plateform": "10",
-			"delay": 1
-		},
-		{
-			"station": "Gand-Saint-Pierre",
-			"hour": "16:45:00",
-			"plateform": "9",
-			"delay": 0
-		},
-		{
-			"station": "Nivelles",
-			"hour": "16:47:00",
-			"plateform": "12",
-			"delay": 0
-		},
-		{
-			"station": "Brussels Airport - Zaventem",
-			"hour": "16:47:00",
-			"plateform": "3",
-			"delay": 0
-		},
-		{
-			"station": "Termonde",
-			"hour": "16:49:00",
-			"plateform": "1",
-			"delay": 0
-		},
-		{
-			"station": "Tournai",
-			"hour": "16:49:00",
-			"plateform": "8",
-			"delay": 0
-		},
-		{
-			"station": "Liège-Guillemins",
-			"hour": "16:49:00",
-			"plateform": "5",
-			"delay": 0
-		},
-		{
-			"station": "Anvers-Central",
-			"hour": "16:50:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Ostende",
-			"hour": "16:51:00",
-			"plateform": "4",
-			"delay": 0
-		},
-		{
-			"station": "Braine-le-Comte",
-			"hour": "16:52:00",
-			"plateform": "10",
-			"delay": 0
-		},
-		{
-			"station": "Namur",
-			"hour": "16:52:00",
-			"plateform": "7",
-			"delay": 0
-		},
-		{
-			"station": "Tongres",
-			"hour": "16:55:00",
-			"plateform": "1",
-			"delay": 0
-		},
-		{
-			"station": "Binche",
-			"hour": "16:55:00",
-			"plateform": "12",
-			"delay": 0
-		},
-		{
-			"station": "Courtrai",
-			"hour": "16:55:00",
-			"plateform": "9",
-			"delay": 0
-		},
-		{
-			"station": "Amsterdam CS",
-			"hour": "16:56:00",
-			"plateform": "6",
-			"delay": 0
-		},
-		{
-			"station": "Termonde",
-			"hour": "16:56:00",
-			"plateform": "2",
-			"delay": 0
-		},
-		{
-			"station": "Louvain-la-Neuve",
-			"hour": "16:59:00",
-			"plateform": "7",
-			"delay": 0
-		},
-		{
-			"station": "Essen",
-			"hour": "17:00:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Charleroi-Central",
-			"hour": "17:00:00",
-			"plateform": "12",
-			"delay": 0
-		},
-		{
-			"station": "Tournai",
-			"hour": "17:01:00",
-			"plateform": "9",
-			"delay": 1
-		},
-		{
-			"station": "Liège-Guillemins",
-			"hour": "17:02:00",
-			"plateform": "3",
-			"delay": 0
-		},
-		{
-			"station": "Brussels Airport - Zaventem",
-			"hour": "17:03:00",
-			"plateform": "6",
-			"delay": 0
-		},
-		{
-			"station": "Poperinge",
-			"hour": "17:04:00",
-			"plateform": "5",
-			"delay": 0
-		},
-		{
-			"station": "Quevy",
-			"hour": "17:04:00",
-			"plateform": "10",
-			"delay": 0
-		},
-		{
-			"station": "Bruxelles-Midi",
-			"hour": "17:05:00",
-			"plateform": "8",
-			"delay": 0
-		},
-		{
-			"station": "Anvers-Central",
-			"hour": "17:06:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Alost",
-			"hour": "17:06:00",
-			"plateform": "1",
-			"delay": 0
-		},
-		{
-			"station": "Eupen",
-			"hour": "17:07:00",
-			"plateform": "7",
-			"delay": 0
-		},
-		{
-			"station": "Bruxelles-Midi",
-			"hour": "17:08:00",
-			"plateform": "9",
-			"delay": 2
-		},
-		{
-			"station": "Gand-Saint-Pierre",
-			"hour": "17:08:00",
-			"plateform": "4",
-			"delay": 0
-		},
-		{
-			"station": "Louvain",
-			"hour": "17:10:00",
-			"plateform": "6",
-			"delay": 0
-		},
-		{
-			"station": "Neerpelt",
-			"hour": "17:11:00",
-			"plateform": "11",
-			"delay": 0
-		},
-		{
-			"station": "Zottegem",
-			"hour": "17:12:00",
-			"plateform": "2",
-			"delay": 1
-		},
-		{
-			"station": "Tongres",
-			"hour": "17:13:00",
-			"plateform": "3",
-			"delay": 0
-		},
-		{
-			"station": "Liège-Saint-Lambert",
-			"hour": "17:13:00",
-			"plateform": "7",
-			"delay": 0
-		},
-		{
-			"station": "Quievrain",
-			"hour": "17:13:00",
-			"plateform": "9",
-			"delay": 1
-		},
-		{
-			"station": "Nivelles",
-			"hour": "17:13:00",
-			"plateform": "12",
-			"delay": 0
-		},
-		{
-			"station": "Knokke",
-			"hour": "17:15:00",
-			"plateform": "4",
-			"delay": 0
 		}
 	]
 }

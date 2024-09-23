@@ -2,63 +2,53 @@
 	"items": [
 		{
 			"category": [
-				"News jeu"
-			],
-			"title": "Les mouvements dans le prochain Call of Duty ont l'air fou... ou juste illisibles ? Black Ops 6 promet du lourd à haut niveau",
-			"pubDate": "Thu, 05 Sep 2024 13:35:02 +0200",
-			"description": "Alors que la bêta de Black Ops 6 bat son plein, les joueurs s'adaptent aux mécaniques de ce nouvel épisode de Call of Duty. Et des extraits que l'on peut voir, ça s'annonce plus dynamique que jamais... voire épileptique. ",
-			"link": "https://www.jeuxvideo.com/news/1920541/les-mouvements-dans-le-prochain-call-of-duty-ont-l-air-fou-ou-juste-illisibles-black-ops-6-promet-du-lourd-a-haut-niveau.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172546/1725455066-6737-card.jpg"
-		},
-		{
-			"category": [
-				"News jeu"
-			],
-			"title": "Avec la fermeture de Concord, les joueurs s'arrangent entre eux pour obtenir le trophée Platine... et c'est hilarant à voir",
-			"pubDate": "Thu, 05 Sep 2024 12:50:02 +0200",
-			"description": "Le jeu vidéo Concord sera débranché ce week-end par Sony. De quoi laisse une poignée de jours aux amateurs de trophées et succès, qui redoublent d'inventivité pour tous les obtenir avant la fermeture.",
-			"link": "https://www.jeuxvideo.com/news/1920510/avec-la-fermeture-de-concord-les-joueurs-s-arrangent-entre-eux-pour-obtenir-le-trophee-platine-et-c-est-hilarant-a-voir.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172545/1725451796-5361-card.jpg"
-		},
-		{
-			"category": [
 				"News culture"
 			],
-			"title": "Après un départ canon, la saison 2 des Anneaux de Pouvoir prend (trop) son temps. L'épisode 4  s'embourbe dans l'univers du Seigneur des Anneaux",
-			"pubDate": "Thu, 05 Sep 2024 12:26:50 +0200",
-			"description": "La série Le Seigneur des Anneaux produite par Amazon ne fait pas que des heureux. Si les critiques s’accordent à dire que cette adaptation vaut le détour, la communauté des fans est bien plus divisée sur le sujet. Moi-même, qui avait pourtant fortement apprécié la saison 1 et les 3 premiers épisodes...",
-			"link": "https://www.jeuxvideo.com/news/1921053/apres-un-depart-canon-la-saison-2-des-anneaux-de-pouvoir-prend-trop-son-temps-l-episode-4-s-embourbe-dans-l-univers-du-seigneur-des-anneaux.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172553/1725531393-340-card.jpg"
-		},
-		{
-			"category": [
-				"News culture"
-			],
-			"title": "Ce film de science-fiction fut un tel échec au box-office qu'il a mis un stop à la carrière de ses réalisateurs au cinéma : il est disponible sur Amazon Prime Video",
-			"pubDate": "Thu, 05 Sep 2024 12:05:02 +0200",
-			"description": "Les services de streaming et vidéo à la demande, s'il permettent de bénéficier de contenus récents inédits, peuvent aussi servir à voir des longs-métrages sortis il y a quelque temps au cinéma n'ayant pas bénéficié de l'approbation générale. C'est le cas de ce film de science-fiction qui a été le dernier...",
-			"link": "https://www.jeuxvideo.com/news/1920581/ce-film-de-science-fiction-fut-un-tel-echec-au-box-office-qu-il-a-mis-un-stop-a-la-carriere-de-ses-realisateurs-au-cinema-il-est-disponible-sur-amazon-prime-video.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172546/1725457231-9536-card.jpg"
+			"title": "Jujutsu Kaisen : Un nouveau projet après la fin du manga ? Son éditeur tease \"quelque chose à venir\"",
+			"pubDate": "Mon, 23 Sep 2024 12:40:02 +0200",
+			"description": "Alors que Jujutsu Kaisen touche à sa fin, son éditeur laisse entrevoir de nouveaux projets pour le manga de Gege Akutami. ",
+			"link": "https://www.jeuxvideo.com/news/1926472/jujutsu-kaisen-un-nouveau-projet-apres-la-fin-du-manga-son-editeur-tease-quelque-chose-a-venir.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172693/1726932631-8964-card.jpg"
 		},
 		{
 			"category": [
 				"News jeu"
 			],
-			"title": "On ne comprend plus rien à l’industrie du jeu vidéo : le studio derrière ce remaster PS5 licencie ses employés à un mois de la sortie…",
-			"pubDate": "Thu, 05 Sep 2024 11:40:02 +0200",
-			"description": "Alors que le remaster d‘Until Dawn sur PS5 arrive ce 4 octobre, Ballistic Moon, le studio qui est à l'initiative, annonce un grand licenciement.",
-			"link": "https://www.jeuxvideo.com/news/1920673/on-ne-comprend-plus-rien-a-l-industrie-du-jeu-video-le-studio-derriere-ce-remaster-ps5-licencie-ses-employes-a-un-mois-de-la-sortie.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172552/1725520752-3394-card.png"
+			"title": "Palworld : Quel brevet créé pour Pokémon aurait-il violé pour justifier l'attaque en justice de Nintendo ?",
+			"pubDate": "Mon, 23 Sep 2024 12:00:03 +0200",
+			"description": "Malgré toutes les similitudes que partagent Palworld et Pokémon, il reste encore difficile de déterminer les brevets invoqués par Nintendo pour mettre en cause le studio Pocket Pair.",
+			"link": "https://www.jeuxvideo.com/news/1926463/palworld-quel-brevet-cree-pour-pokemon-aurait-il-viole-pour-justifier-l-attaque-en-justice-de-nintendo.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172693/1726930142-9721-card.jpg"
+		},
+		{
+			"category": [
+				"News jeu"
+			],
+			"title": "PlayStation 5 Pro : Vous serez obligé d'être connecté à internet pour y jouer... et même utiliser le lecteur de disque !",
+			"pubDate": "Mon, 23 Sep 2024 11:20:02 +0200",
+			"description": "De la même façon que les versions slim, la PS5 Pro demandera une connexion internet au lancement, mais aussi pour l'installation d'un lecteur de disque externe. ",
+			"link": "https://www.jeuxvideo.com/news/1926459/playstation-5-pro-vous-serez-oblige-d-etre-connecte-a-internet-pour-y-jouer-et-meme-utiliser-le-lecteur-de-disque.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172693/1726926862-8415-card.jpg"
 		},
 		{
 			"category": [
 				"News astuce"
 			],
-			"title": "Dés gratuits Monopoly GO du 5 septembre 2024 : Gagnez 50 lancers en quelques secondes !",
-			"pubDate": "Thu, 05 Sep 2024 10:35:02 +0200",
-			"description": "Ce jeudi 5 septembre 2024, Monopoly GO! a partagé deux nouveaux liens qui permettent aux joueurs de bénéficier de 50 lancers de dés gratuits. Cela donne aux joueurs la possibilité de profiter davantage du jeu facilement, et ça se renouvelle dès demain !",
-			"link": "https://www.jeuxvideo.com/news/1920940/des-gratuits-monopoly-go-du-5-septembre-2024-gagnez-50-lancers-en-quelques-secondes.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172553/1725525027-597-card.jpg"
+			"title": "DCE Haaland FC 25 POTM Premier League : Comment obtenir le phénomène norvégien ?",
+			"pubDate": "Mon, 23 Sep 2024 11:05:02 +0200",
+			"description": "Si Haaland est un phénomène sur les terrains depuis le début de la saison, il risque rapidement d'en devenir un aussi sur les terrains virtuels de FC 25 ! En effet, sa carte POTM vient tout juste de débarquer en DCE (SBC), et elle envoie du très, très lourd !",
+			"link": "https://www.jeuxvideo.com/news/1926511/dce-haaland-fc-25-potm-premier-league-comment-obtenir-le-phenomene-norvegien.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172703/1727029681-6824-card.jpg"
+		},
+		{
+			"category": [
+				"News astuce"
+			],
+			"title": "Dés gratuits Monopoly GO du 23 septembre 2024 : Gagnez 25 lancers en quelques clics !",
+			"pubDate": "Mon, 23 Sep 2024 10:40:02 +0200",
+			"description": "Ce lundi 23 septembre 2024, Monopoly GO! a partagé un nouveau lien qui permet aux joueurs de bénéficier de plus de 25 lancers de dés gratuits. Cela leur donne la possibilité de profiter davantage du jeu facilement, et ça se renouvelle dès demain !",
+			"link": "https://www.jeuxvideo.com/news/1926571/des-gratuits-monopoly-go-du-23-septembre-2024-gagnez-25-lancers-en-quelques-clics.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172708/1727080769-5914-card.jpg"
 		},
 		{
 			"category": [
@@ -72,133 +62,143 @@
 		},
 		{
 			"category": [
-				"Test"
+				"News culture"
 			],
-			"title": "Test World of Warcraft : The War Within sur PC",
-			"pubDate": "Thu, 05 Sep 2024 10:21:55 +0200",
-			"description": "World of Warcraft : The War Within est sortie. La dixième extension de WoW a été rendue disponible pour tout le monde le 28 août dernier. L’occasion pour tous les joueurs de plonger dans les profondeurs de Khaz Algar, la nouvelle région, et de découvrir les nouveautés apportées. Et pour la première fois...",
-			"link": "https://www.jeuxvideo.com/test/1920312/wow-the-war-within-pour-les-20-ans-du-plus-gros-mmorpg-de-tous-les-temps-la-nouvelle-extension-est-elle-la-revolution-tant-attendue.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172538/1725381436-266-card.jpg"
+			"title": "Surprise ! Dragon Ball Daima sera bien diffusé en France, mais pas sur Crunchyroll et encore moins Netflix !",
+			"pubDate": "Mon, 23 Sep 2024 10:11:49 +0200",
+			"description": "Les fans français de Dragon Ball attendaient avec impatience de savoir sur quel service SVOD serait diffusé la prochaine série animée Dragon Ball, et l’information est tombée ce week-end. Sans grande surprise, c’est le principal concurrent de Crunchyroll, mais aussi de Netflix, qui s’est octroyé les...",
+			"link": "https://www.jeuxvideo.com/news/1926552/surprise-dragon-ball-daima-sera-bien-diffuse-en-france-mais-pas-sur-crunchyroll-et-encore-moins-netflix.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172708/1727078879-8231-card.jpg"
 		},
 		{
 			"category": [
 				"News jeu"
 			],
-			"title": "Ce jeu vidéo PS5 et PC \"a vécu moins longtemps qu'une mouche\". Sur Internet, les joueurs s'amusent des mésaventures de PlayStation ",
-			"pubDate": "Thu, 05 Sep 2024 10:20:02 +0200",
-			"description": "Disponible depuis le 23 août sur PlayStation 5 et PC, le jeu de tir coopératif de Sony n'a pas fait d'étincelles. Il sera même complètement débranché par Sony le 06 septembre. Une vie de 14 petits jours avec laquelle s'amuse les joueurs.",
-			"link": "https://www.jeuxvideo.com/news/1920462/ce-jeu-video-ps5-et-pc-a-vecu-moins-longtemps-qu-une-mouche-sur-internet-les-joueurs-s-amusent-des-mesaventures-de-playstation.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172544/1725442612-501-card.jpg"
+			"title": "Je n'aurais jamais repris intensément le jeu vidéo sans le Game Pass et la Xbox Series S : ils ont fait renaître ma passion !",
+			"pubDate": "Mon, 23 Sep 2024 09:25:02 +0200",
+			"description": "La Xbox Series S se coltine l'étiquette peu enviable de \"vilain petit canard” de la neuvième génération de consoles bien malgré elle. Avec sa faible puissance en comparaison des autres machines vendues sur le marché, elle force les studios à se plier en quatre pour faire tourner leur création et parfois...",
+			"link": "https://www.jeuxvideo.com/news/1925126/je-n-aurais-jamais-repris-intensement-le-jeu-video-sans-le-game-pass-et-la-xbox-series-s-ils-ont-fait-renaitre-ma-passion.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172667/1726666872-956-card.png"
+		},
+		{
+			"category": [
+				"News culture"
+			],
+			"title": "Steven Spielberg n'a tourné qu'une seule scène de ce film culte : elle est si iconique que tout le monde s'en souvient encore 40 ans après",
+			"pubDate": "Mon, 23 Sep 2024 08:20:02 +0200",
+			"description": "Aussi étonnant que cela puisse paraître, on doit en partie l’une des plus grandes scènes du cinéma à Steven Spielberg, alors qu’il ne s’agit même pas de l’un de ses films ! Durant les années 80, le réalisateur de ce film culte a invité Spielberg sur les plateaux de tournage et lui a fait une proposition...",
+			"link": "https://www.jeuxvideo.com/news/1926135/steven-spielberg-n-a-tourne-qu-une-seule-scene-de-ce-film-culte-elle-est-si-iconique-que-tout-le-monde-s-en-souvient-encore-40-ans-apres.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172684/1726841148-8831-card.jpg"
 		},
 		{
 			"category": [
 				"News jeu"
 			],
-			"title": "\"Nous faisons très attention à ça\" Les créateurs d'Astro Bot, l'exclu PS5 de la rentrée, révèlent comment ils veulent séduire les joueurs",
-			"pubDate": "Thu, 05 Sep 2024 09:30:02 +0200",
-			"description": "Sur la chaîne YouTube de PlayStation, la Team Asobi révèle dans un premier making-of, des images prometteuses pour le nouveau Astro Bot dont la sortie est prévue dès demain.",
-			"link": "https://www.jeuxvideo.com/news/1920446/nous-faisons-tres-attention-a-ca-les-createurs-d-astro-bot-l-exclu-ps5-de-la-rentree-revelent-comment-ils-veulent-seduire-les-joueurs.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172544/1725442423-2806-card.jpg"
+			"title": "Baldur’s Gate chez les pirates et c’est français : nos impressions sur Flint Treasure of Oblivion !",
+			"pubDate": "Mon, 23 Sep 2024 07:35:02 +0200",
+			"description": "Production française, Flint : Treasure of Oblivion tente de mélanger l’univers de la piraterie à un gameplay très inspiré des jeux de rôle sur table. Dans ce JV Fast, nous revenons sur le prochain titre édité par Microids.",
+			"link": "https://www.jeuxvideo.com/news/1925721/baldur-s-gate-chez-les-pirates-et-c-est-francais-nos-impressions-sur-flint-treasure-of-oblivion.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172684/1726836735-525-card.jpg"
+		},
+		{
+			"category": [
+				"Chronique"
+			],
+			"title": "Flint : Treasure of Oblivion tente de mélanger RPG tactique et piraterie : formule gagnante ?",
+			"pubDate": "Mon, 23 Sep 2024 07:35:02 +0200",
+			"description": "On a (presque) tous rêvé un jour d’être pirate, un imaginaire si fort et si commun qu’il est désormais presque passé de mode. Dans ce JV Fast, nous vous présentons Flint : Treasure of Oblivion qui compte bien rappeler que les corsaires ne seront jamais démodés.",
+			"link": "https://www.jeuxvideo.com/videos/chroniques/1925709/flint-treasure-of-oblivion-tente-de-melanger-rpg-tactique-et-piraterie-formule-gagnante.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172684/1726838652-7255-card.jpg"
 		},
 		{
 			"category": [
 				"News culture"
 			],
-			"title": "Après Alien Romulus, la célèbre saga de SF arrive sur Terre : cette série événement sur Disney+ prévue pour 2025 montre un premier teaser",
-			"pubDate": "Thu, 05 Sep 2024 08:35:02 +0200",
-			"description": "Après Alien : Romulus, les fans du Xénomorphe pourront découvrir Alien : Earth, une série chapeautée par Noah Hawley qui a dévoilé son premier teaser.",
-			"link": "https://www.jeuxvideo.com/news/1920430/apres-alien-romulus-la-celebre-saga-de-sf-arrive-sur-terre-cette-serie-evenement-sur-disney-prevue-pour-2025-montre-un-premier-teaser.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172544/1725440128-3542-card.png"
+			"title": "\"Je le regarde une fois par semaine\" Bruce Willis est un fan absolu de ce chef-d'œuvre du cinéma réalisé par Martin Scorsese",
+			"pubDate": "Mon, 23 Sep 2024 07:15:02 +0200",
+			"description": "Compte tenu de la filmographie du réalisateur Martin Scorsese, on voit comment ne pas être fan d’au moins un de ses longs-métrages. Même l’acteur Bruce Willis est friand des films du cinéaste derrière Taxi Driver et Killers of the Flower Moon, mais ce n’est pas l’un de ces deux là qu’il préfère. Non,...",
+			"link": "https://www.jeuxvideo.com/news/1926066/je-le-regarde-une-fois-par-semaine-bruce-willis-est-un-fan-absolu-de-ce-chef-d-oeuvre-du-cinema-realise-par-martin-scorsese.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172684/1726837727-1553-card.jpg"
+		},
+		{
+			"category": [
+				"Chronique"
+			],
+			"title": "Nos impressions sur Path of Exile 2 : est-il capable de faire trembler Diablo 4 ?",
+			"pubDate": "Mon, 23 Sep 2024 06:15:02 +0200",
+			"description": "Le genre du hack and slash a longtemps été dominé par Diablo, le ténor du genre venu de chez Blizzard, mais avec la sortie du premier Path of Exile en octobre 2013, les fans du genre ont pu trouver un nouveau prétendant au titre. Aujourd’hui, Grinding Gear Games se prépare à sortir la suite de son jeu-phare,...",
+			"link": "https://www.jeuxvideo.com/videos/chroniques/1924951/nos-impressions-sur-path-of-exile-2-est-il-capable-de-faire-trembler-diablo-4.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172658/1726577749-2054-card.jpg"
+		},
+		{
+			"category": [
+				"News jeu"
+			],
+			"title": "Path of Exile 2 peut-il concurrencer les meilleurs jeux vidéo Hack & Slash du moment ?",
+			"pubDate": "Mon, 23 Sep 2024 06:05:02 +0200",
+			"description": "Path of Exile 2 est attendu pour le 15 novembre prochain sur PC, PS5 et Xbox Series. Malgré le retour de Diablo avec son quatrième opus, Grinding Gear Games reste convaincu que son propre jeu à ses chances, et dans ce JV Fast, nous revenons sur les ajouts de cet hack & slash ambitieux !",
+			"link": "https://www.jeuxvideo.com/news/1924960/path-of-exile-2-peut-il-concurrencer-les-meilleurs-jeux-video-hack-slash-du-moment.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172658/1726578586-1719-card.jpg"
 		},
 		{
 			"category": [
 				"News culture"
 			],
-			"title": "Après deux séries sur Amazon Prime Video et Netflix, le réalisateur de ce film mythique avec Ryan Gosling annonce son retour au cinéma avec un projet international",
-			"pubDate": "Thu, 05 Sep 2024 07:30:02 +0200",
-			"description": "Après avoir marqué le cinéma avec des œuvres iconiques telles que Drive et The Neon Demon, ce réalisateur est sur le point de faire son grand retour sur grand écran",
-			"link": "https://www.jeuxvideo.com/news/1920384/apres-deux-series-sur-amazon-prime-video-et-netflix-le-realisateur-de-ce-film-mythique-avec-ryan-gosling-annonce-son-retour-au-cinema-avec-un-projet-international.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172540/1725397563-1597-card.jpg"
+			"title": "Ce film de SF fut un tel échec au cinéma avec 240 millions $ que la trilogie déjà prévue fut annulée : il est disponible sur Disney+",
+			"pubDate": "Mon, 23 Sep 2024 05:40:02 +0200",
+			"description": "Alors qu’elle fait partie des sagas les plus populaires du jeux vidéo, même si elle est parfois décriée, son adaptation au cinéma n’a pas vraiment convaincu le public. La réussite au box-office n’y était pas, le public n’est pas parvenu à lui pardonner ses défauts. Résultat des courses, la trilogie ne...",
+			"link": "https://www.jeuxvideo.com/news/1925996/ce-film-de-sf-fut-un-tel-echec-au-cinema-avec-240-millions-que-la-trilogie-deja-prevue-fut-annulee-il-est-disponible-sur-disney.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172683/1726833339-8091-card.jpg"
 		},
 		{
 			"category": [
-				"News culture"
+				"News jeu"
 			],
-			"title": "\"Il y aura d'autres films\" Le Seigneur des Anneaux n'est pas prêt de s'arrêter : ce personnage iconique de la première trilogie va revenir au cinéma",
-			"pubDate": "Thu, 05 Sep 2024 06:45:02 +0200",
-			"description": "\nLe Seigneur des Anneaux n'a pas fini de captiver les spectateurs. Après le succès de la trilogie originale et des films Le Hobbit, un nouveau film s'apprête à voir le jour, tandis qu'un acteur légendaire envisage son retour.\n",
-			"link": "https://www.jeuxvideo.com/news/1920380/il-y-aura-d-autres-films-le-seigneur-des-anneaux-n-est-pas-pret-de-s-arreter-ce-personnage-iconique-de-la-premiere-trilogie-va-revenir-au-cinema.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172539/1725394920-1308-card.jpg"
-		},
-		{
-			"category": [
-				"News culture"
-			],
-			"title": "Plus de 120 millions $ de perte... ce film de science-fiction a forcé son studio à fusionner avec son principal rival pour survivre",
-			"pubDate": "Thu, 05 Sep 2024 05:45:02 +0200",
-			"description": "\nSe hisser parmi les meilleurs films au box-office est un défi colossal. Si certains films y parviennent, d'autres, malgré des ambitions élevées, échouent. Retour sur l'échec emblématique de ce film adapté d’un jeu vidéo.\n",
-			"link": "https://www.jeuxvideo.com/news/1920372/plus-de-120-millions-de-perte-ce-film-de-science-fiction-a-force-son-studio-a-fusionner-avec-son-principal-rival-pour-survivre.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172539/1725392779-949-card.jpg"
+			"title": "WoW The War Within : un mode inédit en 20 ans d'histoire, le MMORPG se transforme lentement en jeu solo",
+			"pubDate": "Sun, 22 Sep 2024 21:40:03 +0200",
+			"description": "Avec the War Within, Blizzard déploie un mode jeu jusqu'alors inédit qui permet aux joueurs solitaires de profiter pleinement de l'histoire contée dans cette nouvelle extension. ",
+			"link": "https://www.jeuxvideo.com/news/1926454/wow-the-war-within-un-mode-inedit-en-20-ans-d-histoire-le-mmorpg-se-transforme-lentement-en-jeu-solo.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172692/1726923020-2228-card.jpg"
 		},
 		{
 			"category": [
 				"News astuce"
 			],
-			"title": "Vous manquez de place dans WoW The War Within ? Deux sacs sont à récupérer facilement ! ",
-			"pubDate": "Wed, 04 Sep 2024 22:45:02 +0200",
-			"description": "Voici un guide pour récupérer 2 sacs de 34 places dans World of Warcraft : The War Within, ce qui n'est pas de trop au vu de tous les nouveaux matériaux. Il faudra pour cela avoir accès aux nouvelles zones de l'extension.",
-			"link": "https://www.jeuxvideo.com/news/1920571/vous-manquez-de-place-dans-wow-the-war-within-deux-sacs-sont-a-recuperer-facilement.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172546/1725462767-9428-card.jpg"
+			"title": "Carte au trésor du Ledecestrescire Assassin’s Creed Valhalla : où trouver le butin caché ? ",
+			"pubDate": "Sun, 22 Sep 2024 21:05:02 +0200",
+			"description": "Vous avez fait la récente acquisition de la carte au trésor de Ledecestrescire, mais vous ne parvenez pas à trouver la solution de cette dernière ? Pas de panique, nous sommes là pour éclairer vos lanternes ! Dans cet article Assassin’s Creed Valhalla, nous vous donnons toutes les réponses à vos questions....",
+			"link": "https://www.jeuxvideo.com/news/1925646/carte-au-tresor-du-ledecestrescire-assassin-s-creed-valhalla-ou-trouver-le-butin-cache.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172675/1726748218-8444-card.png"
 		},
 		{
 			"category": [
 				"News jeu"
 			],
-			"title": "Un nouveau jeu vidéo Batman basé sur le héros interprété par Robert Pattinson ? Le boss de DC répond à la rumeur",
-			"pubDate": "Wed, 04 Sep 2024 22:25:02 +0200",
-			"description": "Les rumeurs d’un nouveau jeu Batman inspiré par The Batman de Matt Reeves circulent, mais la situation est confuse. Entre les démentis de James Gunn et les doutes autour de Rocksteady après l’échec de Suicide Squad, l’avenir du Chevalier Noir en jeu vidéo reste flou. ",
-			"link": "https://www.jeuxvideo.com/news/1920393/un-nouveau-jeu-video-batman-base-sur-le-heros-interprete-par-robert-pattinson-le-boss-de-dc-repond-a-la-rumeur.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172540/1725402424-735-card.jpg"
-		},
-		{
-			"category": [
-				"News culture"
-			],
-			"title": "Netflix donne RDV à ses abonnés en septembre 2024 : le plus grand événement du service SVOD débute dans 2 semaines",
-			"pubDate": "Wed, 04 Sep 2024 21:25:02 +0200",
-			"description": "Alors que la rentrée bat son plein, les entreprises comptent bien en profiter pour annoncer leurs futurs projets. Parmi elles, on retrouve bien sûr le géant du SVOD Netflix. Dans à peine deux semaines, ils devraient annoncer beaucoup de nouveautés qui risquent de faire du bruit.",
-			"link": "https://www.jeuxvideo.com/news/1920368/netflix-donne-rdv-a-ses-abonnes-en-septembre-2024-le-plus-grand-evenement-du-service-svod-debute-dans-2-semaines.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172539/1725391451-8898-card.jpg"
+			"title": "Rebel Moon est un échec cuisant pour Zack Snyder, mais Netflix persiste dans cet univers de SF avec un jeu vidéo pour 2025",
+			"pubDate": "Sun, 22 Sep 2024 20:20:02 +0200",
+			"description": "Netflix n’a pas lésiné sur les moyens pour faire de Rebel Moon un porte-étendard de la science-fiction en SVOD. Malheureusement, ce diptyque qui comptait rivaliser avec Star Wars s’est fait descendre par la critique, ce qui n’empêche ni Zack Snyder ni Netflix d’enrichir cet univers de SF avec un jeu...",
+			"link": "https://www.jeuxvideo.com/news/1925990/rebel-moon-est-un-echec-cuisant-pour-zack-snyder-mais-netflix-persiste-dans-cet-univers-de-sf-avec-un-jeu-video-pour-2025.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172684/1726835504-8822-card.jpg"
 		},
 		{
 			"category": [
 				"News astuce"
 			],
-			"title": "WoW The War Within : Que faire pour collecter 1000 points pour le Comptoir de Septembre ?",
-			"pubDate": "Wed, 04 Sep 2024 21:05:02 +0200",
-			"description": "Le comptoir est l'une des activités très intéressantes à faire pour les joueurs de World of Warcraft : The War Within qui aiment les jolies montures, les mascottes charismatiques et autres transmos. Voici comment récolter rapidement 1000 points pour être tranquille pour ce mois de Septembre.",
-			"link": "https://www.jeuxvideo.com/news/1920452/wow-the-war-within-que-faire-pour-collecter-1000-points-pour-le-comptoir-de-septembre.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172545/1725445985-2287-card.jpg"
+			"title": "Pompe à pétrole Satisfactory 1.0 : Comment en construire une et l'utiliser correctement ?",
+			"pubDate": "Sun, 22 Sep 2024 19:35:02 +0200",
+			"description": "On vous dit tout ce que vous devez savoir sur la pompe à pétrole (Oil extractor - Extracteur d'huile en traduisant littéralement) dans Satisfactory, à savoir son utilité et comment la fabriquer en jeu.",
+			"link": "https://www.jeuxvideo.com/news/1926489/pompe-a-petrole-satisfactory-1-0-comment-en-construire-une-et-l-utiliser-correctement.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172699/1726993378-5110-card.jpg"
 		},
 		{
 			"category": [
 				"News jeu"
 			],
-			"title": "25 ans et toutes ses dents, malgré les chutes ! Cette série de jeux vidéo prépare-t-elle quelque chose pour son anniversaire ? Les fans trépignent",
-			"pubDate": "Wed, 04 Sep 2024 20:45:02 +0200",
-			"description": "Depuis quelques années maintenant, la nostalgie semble très bien marcher dans la culture populaire, jeux vidéo compris. Cette année marque d’ailleurs le 25ème anniversaire d’une série de jeux vidéo culte, et ses créateurs comptent bien fêter ce jour spécial. Une annonce pour bientôt ?",
-			"link": "https://www.jeuxvideo.com/news/1920363/25-ans-et-toutes-ses-dents-malgre-les-chutes-cette-serie-de-jeux-video-prepare-t-elle-quelque-chose-pour-son-anniversaire-les-fans-trepignent.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172539/1725388583-7750-card.jpg"
-		},
-		{
-			"category": [
-				"News astuce"
-			],
-			"title": "Penne Red Dead Redemption 2 : Comment obtenir ce composant d'artisanat ?",
-			"pubDate": "Wed, 04 Sep 2024 20:35:02 +0200",
-			"description": "Sur RDR2, le craft est très important, et vous allez vouloir obtenir de nombreuses ressources pour vous crafter un équipement efficace. Dans cet article, on vous aide à mettre la main sur des pennes pour fabriquer facilement vos flèches.",
-			"link": "https://www.jeuxvideo.com/news/1920416/penne-red-dead-redemption-2-comment-obtenir-ce-composant-d-artisanat.htm",
-			"imageURL": "https://image.jeuxvideo.com/medias-lg/172544/1725438956-3982-card.jpg"
+			"title": "STALKER 2 : Un jeu vidéo développé en temps de guerre, Xbox veut nous raconter son histoire",
+			"pubDate": "Sun, 22 Sep 2024 19:10:02 +0200",
+			"description": "Alors que GSC Game est en train de terminer le développement de STALKER 2 en pleine guerre en Ukraine, un reportage va retracer le quotidien des développeurs suite à l’invasion russe.",
+			"link": "https://www.jeuxvideo.com/news/1925560/stalker-2-un-jeu-video-developpe-en-temps-de-guerre-xbox-veut-nous-raconter-son-histoire.htm",
+			"imageURL": "https://image.jeuxvideo.com/medias-lg/172674/1726735926-7661-card.gif"
 		}
 	]
 }
